@@ -46,4 +46,8 @@ The model achieved high classification accuracy on the test dataset.
 **Kuldeep Singh Narwal**  
 B.Tech CSE (AI & ML)  
 **Internship Project – 2**
-** Intership ID : CITS6149
+<br>
+**CODETECH IT SOLUTIONS**
+<br>
+** Intership ID : CITS6149**
+
